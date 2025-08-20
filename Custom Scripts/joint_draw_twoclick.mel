@@ -1,0 +1,6 @@
+import maya.cmds as cmds
+sel = cmds.ls(sl = True)
+for each_joint in sel:
+    if cmds.nodeType(each_joint) == 'joint':
+        cmds.setAttr(each_joint + '.drawStyle', 0)
+        
