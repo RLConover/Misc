@@ -1,2 +1,27 @@
-# Misc
-A collection of stuff I've made that don't belong to any particular project
+# Miscellaneous Stuff
+A collection of things I've made that don't belong to any particular project.  
+
+
+### Maya Rigs
+All of these are for educational purposes only and can also be [found on my Gumroad here!](https://conover3d.gumroad.com/) 
+
+I've also included an old UV checker I got from my time at Full Sail just in case someone else finds it handy
+
+
+### Custom Scripts
+These are some Mel and Python scripts I use for my own pipeline in Maya. Nothing fancy by any means but they're good to have and I've included the icons I've made that correspond with them.  
+
+I've also included some other custom Maya shelf icons for things that I've pinned to my shelf but didn't write the scripts for. Things that have icons but aren't included as functions within Maya natively:
+- [Arise rigging](https://ariserigging.com/)
+- [IK FK Matcher](https://khaledhussein.gumroad.com/l/pPYh?layout=profile)
+- [Rapid Rig Modular](https://dustin-nelson.gumroad.com/l/dFNZv?layout=profile&recommended_by=search)
+- [Debris Emitter](https://www.3dfiggins.com/Store/Support/Debris/)
+
+> [!NOTE]
+> All icons are designed to blend in with the design language of Maya 2016 and newer
+
+
+### Custom Emojis
+I use these in Discord so if you want to use them feel free!
+
+They're made by using the source svg files of Twitter emojis (so they look similar to the emojis used natively by Discord) and altering/adding elements using the same color palette of the original emoji set
